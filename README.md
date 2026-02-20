@@ -10,7 +10,7 @@ First Repository
 
 
 ## Project Title
-
+University Ratings Proposal
 ## Description
 
 ## Tools Used

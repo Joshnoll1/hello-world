@@ -21,7 +21,7 @@ Descriptive analysis, correlation matrix, backward stepwise multiple regression,
 ## Files Used
 [World University Ranking](https://www.kaggle.com/datasets/aritra100/world-university-ranking)
 ## How to Run Program
-
+Download and open the Excel workbook to analyize the tools used in the analysis. All calculations were performed using Excel’s Data Analysis ToolPak.
 ## Additional Information
-
+This project demonstrates practical experience in data cleaning, exploratory analysis, regression modeling, multicollinearity diagnostics, and statistical interpretation using Excel.
 
